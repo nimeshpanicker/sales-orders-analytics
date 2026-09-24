@@ -1,0 +1,501 @@
+﻿Order_ID,Order_Date,Year,Quarter,Customer_Name,Customer_Segment,State,Region,Category,Product_Name,Quantity,Unit_Price,Revenue,Cost,Profit,Status
+ORD-1001,20-01-2023,2023,Q1,Kinetic Energy Corp,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1002,30-01-2023,2023,Q1,Elevate Retail Group,Enterprise,Washington,West,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1003,15-02-2023,2023,Q1,Studio Core Media,Mid-Market,Texas,South,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1004,18-02-2023,2023,Q1,Matrix Robotics,Mid-Market,Colorado,West,Software,Cloud Security Pro,5,120,600,125,475,Cancelled
+ORD-1005,18-02-2023,2023,Q1,Horizon Global Tech,Enterprise,Illinois,Central,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1006,27-02-2023,2023,Q1,Apex Innovations Ltd,Enterprise,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1007,22-03-2023,2023,Q1,Pulse Marketing,Mid-Market,New York,East,Office Gear,Premium Mesh Ergo Chair,3,420,1260,690,570,Completed
+ORD-1008,04-04-2023,2023,Q2,Zenith Cloud Corp,Enterprise,Washington,West,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1009,06-04-2023,2023,Q2,Elevate Retail Group,Enterprise,Florida,South,Software,Cloud Security Pro,9,120,1080,225,855,Completed
+ORD-1010,19-04-2023,2023,Q2,Vanguard Legal,Enterprise,California,West,Office Gear,Premium Mesh Ergo Chair,11,420,4620,2530,2090,Completed
+ORD-1011,21-04-2023,2023,Q2,CloudScale Inc,SMB,California,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1012,07-05-2023,2023,Q2,Elevate Retail Group,Enterprise,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1013,15-05-2023,2023,Q2,Apex Innovations Ltd,Enterprise,North Carolina,East,Software,Team Productivity Suite,10,450,4500,900,3600,Completed
+ORD-1014,15-05-2023,2023,Q2,Elevate Retail Group,Enterprise,California,West,Software,Cloud Security Pro,6,120,720,150,570,Completed
+ORD-1015,27-05-2023,2023,Q2,Studio Core Media,Mid-Market,Illinois,Central,Accessories,Wireless Noise-Cancelling Headset,8,180,1440,640,800,Completed
+ORD-1016,02-06-2023,2023,Q2,Quantum Digital,SMB,Washington,West,Accessories,Wireless Noise-Cancelling Headset,1,180,180,80,100,Completed
+ORD-1017,02-06-2023,2023,Q2,Vanguard Legal,Enterprise,New York,East,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1018,03-06-2023,2023,Q2,Elevate Retail Group,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1019,07-06-2023,2023,Q2,Quantum Digital,SMB,New York,East,Software,Cloud Security Pro,4,120,480,100,380,Completed
+ORD-1020,10-06-2023,2023,Q2,Horizon Global Tech,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1021,12-06-2023,2023,Q2,Alpha BioLabs,SMB,Washington,West,Accessories,Precision Ergonomic Mouse,1,65,65,28,37,Completed
+ORD-1022,25-06-2023,2023,Q2,Nexa Logistics,Mid-Market,Georgia,South,Office Gear,Premium Mesh Ergo Chair,5,420,2100,1150,950,Completed
+ORD-1023,26-06-2023,2023,Q2,Kinetic Energy Corp,Enterprise,New York,East,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1024,02-07-2023,2023,Q3,Pulse Marketing,Mid-Market,Texas,South,Accessories,Mechanical Custom Keyboard,2,135,270,120,150,Completed
+ORD-1025,03-07-2023,2023,Q3,Elevate Retail Group,Enterprise,Washington,West,Hardware,"34"" Curved 4K Monitor",7,750,5250,3360,1890,Completed
+ORD-1026,03-07-2023,2023,Q3,Apex Innovations Ltd,Enterprise,Colorado,West,Office Gear,Premium Mesh Ergo Chair,8,420,3360,1840,1520,Completed
+ORD-1027,04-07-2023,2023,Q3,Vertex Architecture,SMB,California,West,Accessories,Mechanical Custom Keyboard,2,135,270,120,150,Completed
+ORD-1028,06-07-2023,2023,Q3,Pulse Marketing,Mid-Market,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1029,06-07-2023,2023,Q3,Alpha BioLabs,SMB,Texas,South,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1030,10-07-2023,2023,Q3,Alpha BioLabs,SMB,North Carolina,East,Accessories,Precision Ergonomic Mouse,2,65,130,56,74,Completed
+ORD-1031,12-07-2023,2023,Q3,Alpha BioLabs,SMB,New York,East,Office Gear,ErgoMax Standing Desk,1,650,650,360,290,Completed
+ORD-1032,18-07-2023,2023,Q3,Nexa Logistics,Mid-Market,Massachusetts,East,Office Gear,ErgoMax Standing Desk,5,650,3250,1800,1450,Completed
+ORD-1033,31-07-2023,2023,Q3,Horizon Global Tech,Enterprise,Washington,West,Hardware,Thunderbolt 4 Quad Dock,10,280,2800,1600,1200,Completed
+ORD-1034,03-08-2023,2023,Q3,Matrix Robotics,Mid-Market,California,West,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1035,04-08-2023,2023,Q3,Nova Dynamics,Mid-Market,Washington,West,Software,Team Productivity Suite,8,450,3600,720,2880,Completed
+ORD-1036,05-08-2023,2023,Q3,Kinetic Energy Corp,Enterprise,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1037,15-08-2023,2023,Q3,Matrix Robotics,Mid-Market,New York,East,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1038,16-08-2023,2023,Q3,Zenith Cloud Corp,Enterprise,New York,East,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1039,17-08-2023,2023,Q3,CloudScale Inc,SMB,California,West,Accessories,Precision Ergonomic Mouse,1,65,65,28,37,Completed
+ORD-1040,18-08-2023,2023,Q3,Nexa Logistics,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1041,19-08-2023,2023,Q3,Alpha BioLabs,SMB,New York,East,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1042,01-09-2023,2023,Q3,Pulse Marketing,Mid-Market,New York,East,Office Gear,Premium Mesh Ergo Chair,7,420,2940,1610,1330,Completed
+ORD-1043,05-09-2023,2023,Q3,Vanguard Legal,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1044,06-09-2023,2023,Q3,Kinetic Energy Corp,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1045,11-09-2023,2023,Q3,Apex Innovations Ltd,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1046,13-09-2023,2023,Q3,Pulse Marketing,Mid-Market,Texas,South,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1047,14-09-2023,2023,Q3,Studio Core Media,Mid-Market,California,West,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1048,15-09-2023,2023,Q3,CloudScale Inc,SMB,California,West,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1049,16-09-2023,2023,Q3,BlueWave Systems,Mid-Market,California,West,Office Gear,Premium Mesh Ergo Chair,8,420,3360,1840,1520,Completed
+ORD-1050,23-09-2023,2023,Q3,Kinetic Energy Corp,Enterprise,Illinois,Central,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1051,27-09-2023,2023,Q3,Quantum Digital,SMB,Washington,West,Accessories,Precision Ergonomic Mouse,1,65,65,28,37,Completed
+ORD-1052,27-09-2023,2023,Q3,Omnia Consulting,SMB,California,West,Accessories,Wireless Noise-Cancelling Headset,2,180,360,160,200,Completed
+ORD-1053,07-10-2023,2023,Q4,Horizon Global Tech,Enterprise,Washington,West,Accessories,Mechanical Custom Keyboard,11,135,1485,660,825,Completed
+ORD-1054,08-10-2023,2023,Q4,Elevate Retail Group,Enterprise,Illinois,Central,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1055,09-10-2023,2023,Q4,Elevate Retail Group,Enterprise,Georgia,South,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1056,15-10-2023,2023,Q4,BlueWave Systems,Mid-Market,New York,East,Software,Cloud Security Pro,6,120,720,150,570,Completed
+ORD-1057,16-10-2023,2023,Q4,Pulse Marketing,Mid-Market,Florida,South,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1058,25-10-2023,2023,Q4,Synergize Partners,SMB,New York,East,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1059,28-10-2023,2023,Q4,Zenith Cloud Corp,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1060,01-11-2023,2023,Q4,Elevate Retail Group,Enterprise,Washington,West,Software,Team Productivity Suite,9,450,4050,810,3240,Completed
+ORD-1061,02-11-2023,2023,Q4,BlueWave Systems,Mid-Market,California,West,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1062,02-11-2023,2023,Q4,Kinetic Energy Corp,Enterprise,Texas,South,Accessories,Precision Ergonomic Mouse,10,65,650,280,370,Completed
+ORD-1063,03-11-2023,2023,Q4,Matrix Robotics,Mid-Market,Florida,South,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1064,05-11-2023,2023,Q4,Studio Core Media,Mid-Market,Washington,West,Accessories,Wireless Noise-Cancelling Headset,2,180,360,160,200,Completed
+ORD-1065,09-11-2023,2023,Q4,Kinetic Energy Corp,Enterprise,California,West,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1066,11-11-2023,2023,Q4,Apex Innovations Ltd,Enterprise,Colorado,West,Office Gear,ErgoMax Standing Desk,10,650,6500,3600,2900,Completed
+ORD-1067,27-11-2023,2023,Q4,Alpha BioLabs,SMB,California,West,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1068,05-12-2023,2023,Q4,Horizon Global Tech,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1069,07-12-2023,2023,Q4,Vertex Architecture,SMB,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1070,08-12-2023,2023,Q4,BlueWave Systems,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1071,14-12-2023,2023,Q4,Synergize Partners,SMB,New York,East,Accessories,Mechanical Custom Keyboard,3,135,405,180,225,Completed
+ORD-1072,16-12-2023,2023,Q4,Horizon Global Tech,Enterprise,Texas,South,Hardware,"34"" Curved 4K Monitor",9,750,6750,4320,2430,Completed
+ORD-1073,18-12-2023,2023,Q4,Zenith Cloud Corp,Enterprise,Illinois,Central,Hardware,Thunderbolt 4 Quad Dock,11,280,3080,1760,1320,Completed
+ORD-1074,23-12-2023,2023,Q4,Zenith Cloud Corp,Enterprise,Texas,South,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1075,25-12-2023,2023,Q4,Apex Innovations Ltd,Enterprise,New York,East,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1076,27-12-2023,2023,Q4,Kinetic Energy Corp,Enterprise,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1077,29-12-2023,2023,Q4,Elevate Retail Group,Enterprise,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,12,145,1740,900,840,Completed
+ORD-1078,01-01-2024,2024,Q1,Apex Innovations Ltd,Enterprise,California,West,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1079,02-01-2024,2024,Q1,Elevate Retail Group,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",6,1850,11100,7800,3300,Completed
+ORD-1080,07-01-2024,2024,Q1,Kinetic Energy Corp,Enterprise,California,West,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1081,08-01-2024,2024,Q1,Kinetic Energy Corp,Enterprise,Massachusetts,East,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1082,18-01-2024,2024,Q1,Studio Core Media,Mid-Market,California,West,Hardware,Thunderbolt 4 Quad Dock,3,280,840,480,360,Completed
+ORD-1083,20-01-2024,2024,Q1,Nova Dynamics,Mid-Market,Washington,West,Software,Team Productivity Suite,3,450,1350,270,1080,Completed
+ORD-1084,24-01-2024,2024,Q1,Horizon Global Tech,Enterprise,Texas,South,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1085,24-01-2024,2024,Q1,Horizon Global Tech,Enterprise,California,West,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1086,25-01-2024,2024,Q1,Horizon Global Tech,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",9,750,6750,4320,2430,Completed
+ORD-1087,29-01-2024,2024,Q1,BlueWave Systems,Mid-Market,North Carolina,East,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1088,01-02-2024,2024,Q1,Kinetic Energy Corp,Enterprise,Illinois,Central,Software,Cloud Security Pro,12,120,1440,300,1140,Completed
+ORD-1089,05-02-2024,2024,Q1,Zenith Cloud Corp,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",10,750,7500,4800,2700,Completed
+ORD-1090,06-02-2024,2024,Q1,CloudScale Inc,SMB,Texas,South,Software,Team Productivity Suite,1,450,450,90,360,Completed
+ORD-1091,09-02-2024,2024,Q1,Matrix Robotics,Mid-Market,Texas,South,Software,Cloud Security Pro,5,120,600,125,475,Cancelled
+ORD-1092,23-02-2024,2024,Q1,BlueWave Systems,Mid-Market,Washington,West,Hardware,"34"" Curved 4K Monitor",7,750,5250,3360,1890,Completed
+ORD-1093,26-02-2024,2024,Q1,Vanguard Legal,Enterprise,Massachusetts,East,Office Gear,ErgoMax Standing Desk,7,650,4550,2520,2030,Completed
+ORD-1094,29-02-2024,2024,Q1,Vanguard Legal,Enterprise,New York,East,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1095,01-03-2024,2024,Q1,CloudScale Inc,SMB,Illinois,Central,Accessories,Wireless Noise-Cancelling Headset,5,180,900,400,500,Completed
+ORD-1096,01-03-2024,2024,Q1,Pulse Marketing,Mid-Market,New York,East,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1097,03-03-2024,2024,Q1,Zenith Cloud Corp,Enterprise,Massachusetts,East,Software,Enterprise Analytics Cloud,6,2400,14400,3600,10800,Completed
+ORD-1098,06-03-2024,2024,Q1,Omnia Consulting,SMB,New York,East,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1099,10-03-2024,2024,Q1,Matrix Robotics,Mid-Market,New York,East,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1100,21-03-2024,2024,Q1,Zenith Cloud Corp,Enterprise,Texas,South,Office Gear,Premium Mesh Ergo Chair,3,420,1260,690,570,Completed
+ORD-1101,25-03-2024,2024,Q1,Matrix Robotics,Mid-Market,Colorado,West,Software,Team Productivity Suite,8,450,3600,720,2880,Completed
+ORD-1102,26-03-2024,2024,Q1,Elevate Retail Group,Enterprise,Washington,West,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Completed
+ORD-1103,27-03-2024,2024,Q1,Quantum Digital,SMB,Illinois,Central,Office Gear,Premium Mesh Ergo Chair,2,420,840,460,380,Completed
+ORD-1104,30-03-2024,2024,Q1,Horizon Global Tech,Enterprise,Colorado,West,Hardware,"34"" Curved 4K Monitor",10,750,7500,4800,2700,Completed
+ORD-1105,31-03-2024,2024,Q1,Vanguard Legal,Enterprise,New York,East,Software,Team Productivity Suite,10,450,4500,900,3600,Completed
+ORD-1106,31-03-2024,2024,Q1,Synergize Partners,SMB,Florida,South,Accessories,Mechanical Custom Keyboard,5,135,675,300,375,Completed
+ORD-1107,06-04-2024,2024,Q2,Matrix Robotics,Mid-Market,California,West,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1108,10-04-2024,2024,Q2,Matrix Robotics,Mid-Market,Massachusetts,East,Office Gear,Heavy-Duty Dual Monitor Arm,2,145,290,150,140,Completed
+ORD-1109,13-04-2024,2024,Q2,Horizon Global Tech,Enterprise,Massachusetts,East,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1110,14-04-2024,2024,Q2,Pulse Marketing,Mid-Market,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1111,16-04-2024,2024,Q2,Zenith Cloud Corp,Enterprise,New York,East,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1112,16-04-2024,2024,Q2,Nova Dynamics,Mid-Market,Washington,West,Office Gear,Premium Mesh Ergo Chair,7,420,2940,1610,1330,Completed
+ORD-1113,22-04-2024,2024,Q2,Horizon Global Tech,Enterprise,Massachusetts,East,Hardware,Thunderbolt 4 Quad Dock,2,280,560,320,240,Completed
+ORD-1114,30-04-2024,2024,Q2,Kinetic Energy Corp,Enterprise,Florida,South,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1115,09-05-2024,2024,Q2,Zenith Cloud Corp,Enterprise,Texas,South,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1116,28-05-2024,2024,Q2,CloudScale Inc,SMB,New York,East,Office Gear,ErgoMax Standing Desk,5,650,3250,1800,1450,Completed
+ORD-1117,01-06-2024,2024,Q2,Pulse Marketing,Mid-Market,North Carolina,East,Software,Cloud Security Pro,6,120,720,150,570,Completed
+ORD-1118,06-06-2024,2024,Q2,Pulse Marketing,Mid-Market,New York,East,Hardware,"34"" Curved 4K Monitor",8,750,6000,3840,2160,Completed
+ORD-1119,07-06-2024,2024,Q2,Vertex Architecture,SMB,California,West,Software,Cloud Security Pro,1,120,120,25,95,Completed
+ORD-1120,10-06-2024,2024,Q2,BlueWave Systems,Mid-Market,Texas,South,Accessories,Precision Ergonomic Mouse,8,65,520,224,296,Completed
+ORD-1121,15-06-2024,2024,Q2,Studio Core Media,Mid-Market,Georgia,South,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Completed
+ORD-1122,19-06-2024,2024,Q2,Nexa Logistics,Mid-Market,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,5,145,725,375,350,Completed
+ORD-1123,20-06-2024,2024,Q2,Horizon Global Tech,Enterprise,Washington,West,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1124,22-06-2024,2024,Q2,Horizon Global Tech,Enterprise,New York,East,Hardware,Thunderbolt 4 Quad Dock,4,280,1120,640,480,Completed
+ORD-1125,25-06-2024,2024,Q2,Omnia Consulting,SMB,Texas,South,Accessories,Mechanical Custom Keyboard,2,135,270,120,150,Cancelled
+ORD-1126,25-06-2024,2024,Q2,Zenith Cloud Corp,Enterprise,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1127,27-06-2024,2024,Q2,Matrix Robotics,Mid-Market,Texas,South,Software,Team Productivity Suite,8,450,3600,720,2880,Completed
+ORD-1128,27-06-2024,2024,Q2,Studio Core Media,Mid-Market,Colorado,West,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1129,28-06-2024,2024,Q2,Matrix Robotics,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1130,28-06-2024,2024,Q2,CloudScale Inc,SMB,California,West,Hardware,Thunderbolt 4 Quad Dock,1,280,280,160,120,Completed
+ORD-1131,28-06-2024,2024,Q2,Zenith Cloud Corp,Enterprise,Florida,South,Software,Cloud Security Pro,12,120,1440,300,1140,Completed
+ORD-1132,30-06-2024,2024,Q2,Apex Innovations Ltd,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1133,02-07-2024,2024,Q3,Apex Innovations Ltd,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1134,05-07-2024,2024,Q3,Kinetic Energy Corp,Enterprise,Colorado,West,Office Gear,ErgoMax Standing Desk,6,650,3900,2160,1740,Completed
+ORD-1135,08-07-2024,2024,Q3,Nova Dynamics,Mid-Market,California,West,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1136,09-07-2024,2024,Q3,Nexa Logistics,Mid-Market,North Carolina,East,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1137,10-07-2024,2024,Q3,Quantum Digital,SMB,California,West,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1138,10-07-2024,2024,Q3,Horizon Global Tech,Enterprise,California,West,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1139,11-07-2024,2024,Q3,Kinetic Energy Corp,Enterprise,Washington,West,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1140,15-07-2024,2024,Q3,Studio Core Media,Mid-Market,Massachusetts,East,Hardware,Thunderbolt 4 Quad Dock,3,280,840,480,360,Completed
+ORD-1141,21-07-2024,2024,Q3,Alpha BioLabs,SMB,Texas,South,Accessories,Mechanical Custom Keyboard,2,135,270,120,150,Completed
+ORD-1142,22-07-2024,2024,Q3,Nexa Logistics,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1143,23-07-2024,2024,Q3,Quantum Digital,SMB,New York,East,Software,Cloud Security Pro,4,120,480,100,380,Completed
+ORD-1144,27-07-2024,2024,Q3,Kinetic Energy Corp,Enterprise,Florida,South,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1145,29-07-2024,2024,Q3,Synergize Partners,SMB,New York,East,Office Gear,Heavy-Duty Dual Monitor Arm,3,145,435,225,210,Completed
+ORD-1146,05-08-2024,2024,Q3,Nova Dynamics,Mid-Market,Texas,South,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1147,07-08-2024,2024,Q3,Horizon Global Tech,Enterprise,California,West,Office Gear,Premium Mesh Ergo Chair,2,420,840,460,380,Completed
+ORD-1148,07-08-2024,2024,Q3,Vanguard Legal,Enterprise,New York,East,Software,Cloud Security Pro,9,120,1080,225,855,Completed
+ORD-1149,07-08-2024,2024,Q3,Nexa Logistics,Mid-Market,Texas,South,Software,Team Productivity Suite,8,450,3600,720,2880,Completed
+ORD-1150,08-08-2024,2024,Q3,Alpha BioLabs,SMB,California,West,Software,Cloud Security Pro,1,120,120,25,95,Completed
+ORD-1151,09-08-2024,2024,Q3,Synergize Partners,SMB,California,West,Accessories,Mechanical Custom Keyboard,5,135,675,300,375,Completed
+ORD-1152,09-08-2024,2024,Q3,Nexa Logistics,Mid-Market,Colorado,West,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1153,12-08-2024,2024,Q3,Studio Core Media,Mid-Market,Florida,South,Office Gear,Heavy-Duty Dual Monitor Arm,3,145,435,225,210,Cancelled
+ORD-1154,14-08-2024,2024,Q3,Studio Core Media,Mid-Market,Georgia,South,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Completed
+ORD-1155,24-08-2024,2024,Q3,Apex Innovations Ltd,Enterprise,Texas,South,Office Gear,Premium Mesh Ergo Chair,3,420,1260,690,570,Completed
+ORD-1156,27-08-2024,2024,Q3,Kinetic Energy Corp,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1157,31-08-2024,2024,Q3,Nova Dynamics,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1158,01-09-2024,2024,Q3,Zenith Cloud Corp,Enterprise,New York,East,Software,Cloud Security Pro,4,120,480,100,380,Completed
+ORD-1159,02-09-2024,2024,Q3,Elevate Retail Group,Enterprise,California,West,Hardware,"34"" Curved 4K Monitor",9,750,6750,4320,2430,Cancelled
+ORD-1160,02-09-2024,2024,Q3,Zenith Cloud Corp,Enterprise,Illinois,Central,Hardware,"34"" Curved 4K Monitor",6,750,4500,2880,1620,Completed
+ORD-1161,03-09-2024,2024,Q3,Horizon Global Tech,Enterprise,Washington,West,Hardware,Thunderbolt 4 Quad Dock,12,280,3360,1920,1440,Completed
+ORD-1162,07-09-2024,2024,Q3,Vertex Architecture,SMB,California,West,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Completed
+ORD-1163,13-09-2024,2024,Q3,Synergize Partners,SMB,New York,East,Accessories,Precision Ergonomic Mouse,5,65,325,140,185,Completed
+ORD-1164,18-09-2024,2024,Q3,Zenith Cloud Corp,Enterprise,Washington,West,Hardware,"34"" Curved 4K Monitor",12,750,9000,5760,3240,Completed
+ORD-1165,18-09-2024,2024,Q3,Vanguard Legal,Enterprise,Texas,South,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1166,20-09-2024,2024,Q3,Kinetic Energy Corp,Enterprise,New York,East,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1167,06-10-2024,2024,Q4,Studio Core Media,Mid-Market,Texas,South,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1168,11-10-2024,2024,Q4,Horizon Global Tech,Enterprise,California,West,Hardware,Thunderbolt 4 Quad Dock,9,280,2520,1440,1080,Completed
+ORD-1169,11-10-2024,2024,Q4,Vertex Architecture,SMB,California,West,Accessories,Wireless Noise-Cancelling Headset,4,180,720,320,400,Completed
+ORD-1170,16-10-2024,2024,Q4,Vertex Architecture,SMB,Florida,South,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Completed
+ORD-1171,16-10-2024,2024,Q4,Pulse Marketing,Mid-Market,Illinois,Central,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Cancelled
+ORD-1172,19-10-2024,2024,Q4,CloudScale Inc,SMB,Texas,South,Accessories,Wireless Noise-Cancelling Headset,1,180,180,80,100,Completed
+ORD-1173,22-10-2024,2024,Q4,Matrix Robotics,Mid-Market,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1174,25-10-2024,2024,Q4,Matrix Robotics,Mid-Market,New York,East,Accessories,Precision Ergonomic Mouse,3,65,195,84,111,Completed
+ORD-1175,30-10-2024,2024,Q4,Nexa Logistics,Mid-Market,Georgia,South,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1176,02-11-2024,2024,Q4,Elevate Retail Group,Enterprise,Florida,South,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1177,13-11-2024,2024,Q4,Nexa Logistics,Mid-Market,North Carolina,East,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Completed
+ORD-1178,14-11-2024,2024,Q4,Nexa Logistics,Mid-Market,California,West,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Completed
+ORD-1179,16-11-2024,2024,Q4,Nova Dynamics,Mid-Market,Illinois,Central,Software,Cloud Security Pro,8,120,960,200,760,Completed
+ORD-1180,16-11-2024,2024,Q4,Nexa Logistics,Mid-Market,California,West,Software,Team Productivity Suite,8,450,3600,720,2880,Completed
+ORD-1181,19-11-2024,2024,Q4,Nexa Logistics,Mid-Market,Florida,South,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1182,19-11-2024,2024,Q4,Elevate Retail Group,Enterprise,Illinois,Central,Hardware,"34"" Curved 4K Monitor",8,750,6000,3840,2160,Completed
+ORD-1183,22-11-2024,2024,Q4,Horizon Global Tech,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1184,30-11-2024,2024,Q4,Apex Innovations Ltd,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1185,30-11-2024,2024,Q4,Vanguard Legal,Enterprise,Texas,South,Office Gear,Heavy-Duty Dual Monitor Arm,7,145,1015,525,490,Completed
+ORD-1186,05-12-2024,2024,Q4,Vanguard Legal,Enterprise,Georgia,South,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1187,07-12-2024,2024,Q4,Pulse Marketing,Mid-Market,Florida,South,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1188,08-12-2024,2024,Q4,Zenith Cloud Corp,Enterprise,California,West,Hardware,"34"" Curved 4K Monitor",3,750,2250,1440,810,Completed
+ORD-1189,09-12-2024,2024,Q4,Vanguard Legal,Enterprise,California,West,Hardware,"34"" Curved 4K Monitor",10,750,7500,4800,2700,Completed
+ORD-1190,10-12-2024,2024,Q4,BlueWave Systems,Mid-Market,Massachusetts,East,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1191,14-12-2024,2024,Q4,Pulse Marketing,Mid-Market,New York,East,Accessories,Precision Ergonomic Mouse,2,65,130,56,74,Completed
+ORD-1192,14-12-2024,2024,Q4,Horizon Global Tech,Enterprise,Illinois,Central,Software,Team Productivity Suite,5,450,2250,450,1800,Completed
+ORD-1193,18-12-2024,2024,Q4,Pulse Marketing,Mid-Market,Washington,West,Accessories,Precision Ergonomic Mouse,7,65,455,196,259,Completed
+ORD-1194,18-12-2024,2024,Q4,Kinetic Energy Corp,Enterprise,Washington,West,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1195,21-12-2024,2024,Q4,Apex Innovations Ltd,Enterprise,Texas,South,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Completed
+ORD-1196,22-12-2024,2024,Q4,Horizon Global Tech,Enterprise,California,West,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Completed
+ORD-1197,23-12-2024,2024,Q4,BlueWave Systems,Mid-Market,California,West,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1198,25-12-2024,2024,Q4,Elevate Retail Group,Enterprise,Massachusetts,East,Software,Team Productivity Suite,8,450,3600,720,2880,Completed
+ORD-1199,27-12-2024,2024,Q4,Vanguard Legal,Enterprise,Illinois,Central,Accessories,Mechanical Custom Keyboard,8,135,1080,480,600,Completed
+ORD-1200,27-12-2024,2024,Q4,Horizon Global Tech,Enterprise,Texas,South,Hardware,Thunderbolt 4 Quad Dock,11,280,3080,1760,1320,Completed
+ORD-1201,01-01-2025,2025,Q1,Apex Innovations Ltd,Enterprise,New York,East,Office Gear,Heavy-Duty Dual Monitor Arm,5,145,725,375,350,Completed
+ORD-1202,06-01-2025,2025,Q1,Matrix Robotics,Mid-Market,Illinois,Central,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1203,06-01-2025,2025,Q1,Apex Innovations Ltd,Enterprise,Texas,South,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1204,08-01-2025,2025,Q1,CloudScale Inc,SMB,Texas,South,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Completed
+ORD-1205,10-01-2025,2025,Q1,BlueWave Systems,Mid-Market,California,West,Accessories,Mechanical Custom Keyboard,4,135,540,240,300,Completed
+ORD-1206,12-01-2025,2025,Q1,Elevate Retail Group,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1207,16-01-2025,2025,Q1,Horizon Global Tech,Enterprise,Texas,South,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1208,18-01-2025,2025,Q1,Alpha BioLabs,SMB,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,5,145,725,375,350,Completed
+ORD-1209,20-01-2025,2025,Q1,Kinetic Energy Corp,Enterprise,California,West,Software,Cloud Security Pro,7,120,840,175,665,Cancelled
+ORD-1210,26-01-2025,2025,Q1,Vanguard Legal,Enterprise,Washington,West,Office Gear,ErgoMax Standing Desk,7,650,4550,2520,2030,Completed
+ORD-1211,27-01-2025,2025,Q1,BlueWave Systems,Mid-Market,Texas,South,Hardware,Thunderbolt 4 Quad Dock,7,280,1960,1120,840,Completed
+ORD-1212,28-01-2025,2025,Q1,Zenith Cloud Corp,Enterprise,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,2,145,290,150,140,Completed
+ORD-1213,01-02-2025,2025,Q1,Apex Innovations Ltd,Enterprise,Florida,South,Software,Team Productivity Suite,10,450,4500,900,3600,Completed
+ORD-1214,02-02-2025,2025,Q1,Elevate Retail Group,Enterprise,New York,East,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1215,04-02-2025,2025,Q1,Apex Innovations Ltd,Enterprise,Florida,South,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1216,05-02-2025,2025,Q1,Zenith Cloud Corp,Enterprise,California,West,Hardware,"34"" Curved 4K Monitor",9,750,6750,4320,2430,Completed
+ORD-1217,14-02-2025,2025,Q1,Zenith Cloud Corp,Enterprise,California,West,Software,Team Productivity Suite,3,450,1350,270,1080,Completed
+ORD-1218,17-02-2025,2025,Q1,Apex Innovations Ltd,Enterprise,Illinois,Central,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1219,18-02-2025,2025,Q1,CloudScale Inc,SMB,Washington,West,Office Gear,Premium Mesh Ergo Chair,5,420,2100,1150,950,Completed
+ORD-1220,19-02-2025,2025,Q1,Matrix Robotics,Mid-Market,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1221,25-02-2025,2025,Q1,Studio Core Media,Mid-Market,Illinois,Central,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1222,25-02-2025,2025,Q1,Studio Core Media,Mid-Market,California,West,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1223,27-02-2025,2025,Q1,Elevate Retail Group,Enterprise,New York,East,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Completed
+ORD-1224,02-03-2025,2025,Q1,Nova Dynamics,Mid-Market,New York,East,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1225,04-03-2025,2025,Q1,Apex Innovations Ltd,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1226,04-03-2025,2025,Q1,Studio Core Media,Mid-Market,Massachusetts,East,Office Gear,ErgoMax Standing Desk,2,650,1300,720,580,Completed
+ORD-1227,05-03-2025,2025,Q1,Quantum Digital,SMB,California,West,Office Gear,ErgoMax Standing Desk,2,650,1300,720,580,Completed
+ORD-1228,05-03-2025,2025,Q1,Zenith Cloud Corp,Enterprise,Illinois,Central,Hardware,Thunderbolt 4 Quad Dock,4,280,1120,640,480,Completed
+ORD-1229,05-03-2025,2025,Q1,Zenith Cloud Corp,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1230,07-03-2025,2025,Q1,Pulse Marketing,Mid-Market,Illinois,Central,Hardware,Thunderbolt 4 Quad Dock,6,280,1680,960,720,Completed
+ORD-1231,10-03-2025,2025,Q1,Kinetic Energy Corp,Enterprise,Georgia,South,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1232,13-03-2025,2025,Q1,Matrix Robotics,Mid-Market,California,West,Office Gear,ErgoMax Standing Desk,8,650,5200,2880,2320,Completed
+ORD-1233,15-03-2025,2025,Q1,Kinetic Energy Corp,Enterprise,California,West,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1234,20-03-2025,2025,Q1,Elevate Retail Group,Enterprise,California,West,Accessories,Mechanical Custom Keyboard,9,135,1215,540,675,Completed
+ORD-1235,20-03-2025,2025,Q1,Horizon Global Tech,Enterprise,California,West,Software,Cloud Security Pro,6,120,720,150,570,Completed
+ORD-1236,22-03-2025,2025,Q1,Kinetic Energy Corp,Enterprise,Washington,West,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1237,22-03-2025,2025,Q1,BlueWave Systems,Mid-Market,California,West,Accessories,Mechanical Custom Keyboard,5,135,675,300,375,Completed
+ORD-1238,24-03-2025,2025,Q1,Nova Dynamics,Mid-Market,New York,East,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1239,27-03-2025,2025,Q1,Pulse Marketing,Mid-Market,New York,East,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Completed
+ORD-1240,27-03-2025,2025,Q1,Vanguard Legal,Enterprise,California,West,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Completed
+ORD-1241,28-03-2025,2025,Q1,Horizon Global Tech,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1242,02-04-2025,2025,Q2,Zenith Cloud Corp,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1243,04-04-2025,2025,Q2,Kinetic Energy Corp,Enterprise,California,West,Hardware,Thunderbolt 4 Quad Dock,10,280,2800,1600,1200,Completed
+ORD-1244,09-04-2025,2025,Q2,Elevate Retail Group,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1245,10-04-2025,2025,Q2,Nova Dynamics,Mid-Market,Illinois,Central,Office Gear,ErgoMax Standing Desk,7,650,4550,2520,2030,Completed
+ORD-1246,11-04-2025,2025,Q2,Synergize Partners,SMB,New York,East,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1247,11-04-2025,2025,Q2,Omnia Consulting,SMB,Texas,South,Software,Team Productivity Suite,3,450,1350,270,1080,Completed
+ORD-1248,13-04-2025,2025,Q2,Nexa Logistics,Mid-Market,California,West,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1249,14-04-2025,2025,Q2,Vertex Architecture,SMB,California,West,Hardware,"34"" Curved 4K Monitor",3,750,2250,1440,810,Completed
+ORD-1250,14-04-2025,2025,Q2,Kinetic Energy Corp,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",6,1850,11100,7800,3300,Completed
+ORD-1251,14-04-2025,2025,Q2,Quantum Digital,SMB,New York,East,Office Gear,ErgoMax Standing Desk,2,650,1300,720,580,Completed
+ORD-1252,15-04-2025,2025,Q2,Horizon Global Tech,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",9,750,6750,4320,2430,Completed
+ORD-1253,17-04-2025,2025,Q2,Synergize Partners,SMB,New York,East,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1254,17-04-2025,2025,Q2,BlueWave Systems,Mid-Market,California,West,Software,Cloud Security Pro,8,120,960,200,760,Completed
+ORD-1255,20-04-2025,2025,Q2,Zenith Cloud Corp,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1256,21-04-2025,2025,Q2,Elevate Retail Group,Enterprise,California,West,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1257,21-04-2025,2025,Q2,Zenith Cloud Corp,Enterprise,Massachusetts,East,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1258,23-04-2025,2025,Q2,Pulse Marketing,Mid-Market,Illinois,Central,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1259,25-04-2025,2025,Q2,Nexa Logistics,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1260,26-04-2025,2025,Q2,Alpha BioLabs,SMB,Texas,South,Accessories,Precision Ergonomic Mouse,4,65,260,112,148,Completed
+ORD-1261,29-04-2025,2025,Q2,Vertex Architecture,SMB,Washington,West,Accessories,Mechanical Custom Keyboard,4,135,540,240,300,Completed
+ORD-1262,29-04-2025,2025,Q2,Apex Innovations Ltd,Enterprise,Illinois,Central,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1263,30-04-2025,2025,Q2,Kinetic Energy Corp,Enterprise,New York,East,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Completed
+ORD-1264,01-05-2025,2025,Q2,Studio Core Media,Mid-Market,Colorado,West,Office Gear,Heavy-Duty Dual Monitor Arm,7,145,1015,525,490,Completed
+ORD-1265,01-05-2025,2025,Q2,Kinetic Energy Corp,Enterprise,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1266,01-05-2025,2025,Q2,Horizon Global Tech,Enterprise,Georgia,South,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1267,06-05-2025,2025,Q2,Pulse Marketing,Mid-Market,New York,East,Accessories,Wireless Noise-Cancelling Headset,2,180,360,160,200,Completed
+ORD-1268,08-05-2025,2025,Q2,Vanguard Legal,Enterprise,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1269,09-05-2025,2025,Q2,Pulse Marketing,Mid-Market,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1270,10-05-2025,2025,Q2,Synergize Partners,SMB,Florida,South,Accessories,Precision Ergonomic Mouse,2,65,130,56,74,Completed
+ORD-1271,15-05-2025,2025,Q2,Elevate Retail Group,Enterprise,Texas,South,Software,Team Productivity Suite,11,450,4950,990,3960,Completed
+ORD-1272,15-05-2025,2025,Q2,Nexa Logistics,Mid-Market,Illinois,Central,Office Gear,Premium Mesh Ergo Chair,5,420,2100,1150,950,Completed
+ORD-1273,26-05-2025,2025,Q2,Vertex Architecture,SMB,New York,East,Hardware,Thunderbolt 4 Quad Dock,4,280,1120,640,480,Completed
+ORD-1274,28-05-2025,2025,Q2,Vertex Architecture,SMB,Texas,South,Accessories,Wireless Noise-Cancelling Headset,1,180,180,80,100,Completed
+ORD-1275,28-05-2025,2025,Q2,Nova Dynamics,Mid-Market,Washington,West,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1276,28-05-2025,2025,Q2,Horizon Global Tech,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",6,1850,11100,7800,3300,Completed
+ORD-1277,29-05-2025,2025,Q2,Elevate Retail Group,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1278,29-05-2025,2025,Q2,Nova Dynamics,Mid-Market,Illinois,Central,Software,Team Productivity Suite,3,450,1350,270,1080,Cancelled
+ORD-1279,31-05-2025,2025,Q2,Vanguard Legal,Enterprise,Florida,South,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1280,31-05-2025,2025,Q2,Nexa Logistics,Mid-Market,California,West,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1281,04-06-2025,2025,Q2,Kinetic Energy Corp,Enterprise,Texas,South,Accessories,Precision Ergonomic Mouse,10,65,650,280,370,Completed
+ORD-1282,06-06-2025,2025,Q2,Elevate Retail Group,Enterprise,Texas,South,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1283,10-06-2025,2025,Q2,Vertex Architecture,SMB,Massachusetts,East,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1284,12-06-2025,2025,Q2,Zenith Cloud Corp,Enterprise,California,West,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1285,12-06-2025,2025,Q2,Vanguard Legal,Enterprise,Florida,South,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1286,13-06-2025,2025,Q2,Studio Core Media,Mid-Market,Illinois,Central,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1287,14-06-2025,2025,Q2,Pulse Marketing,Mid-Market,California,West,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1288,15-06-2025,2025,Q2,Nexa Logistics,Mid-Market,Washington,West,Office Gear,ErgoMax Standing Desk,6,650,3900,2160,1740,Completed
+ORD-1289,16-06-2025,2025,Q2,Omnia Consulting,SMB,Texas,South,Office Gear,Premium Mesh Ergo Chair,3,420,1260,690,570,Completed
+ORD-1290,18-06-2025,2025,Q2,Zenith Cloud Corp,Enterprise,Texas,South,Software,Team Productivity Suite,9,450,4050,810,3240,Completed
+ORD-1291,19-06-2025,2025,Q2,CloudScale Inc,SMB,New York,East,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Completed
+ORD-1292,22-06-2025,2025,Q2,Zenith Cloud Corp,Enterprise,Illinois,Central,Hardware,"34"" Curved 4K Monitor",4,750,3000,1920,1080,Completed
+ORD-1293,23-06-2025,2025,Q2,Apex Innovations Ltd,Enterprise,Colorado,West,Office Gear,ErgoMax Standing Desk,6,650,3900,2160,1740,Completed
+ORD-1294,25-06-2025,2025,Q2,Kinetic Energy Corp,Enterprise,New York,East,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1295,27-06-2025,2025,Q2,Synergize Partners,SMB,California,West,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Completed
+ORD-1296,29-06-2025,2025,Q2,Zenith Cloud Corp,Enterprise,Georgia,South,Hardware,Thunderbolt 4 Quad Dock,11,280,3080,1760,1320,Completed
+ORD-1297,30-06-2025,2025,Q2,Horizon Global Tech,Enterprise,California,West,Hardware,Thunderbolt 4 Quad Dock,9,280,2520,1440,1080,Completed
+ORD-1298,02-07-2025,2025,Q3,Synergize Partners,SMB,Florida,South,Office Gear,Heavy-Duty Dual Monitor Arm,3,145,435,225,210,Completed
+ORD-1299,03-07-2025,2025,Q3,Elevate Retail Group,Enterprise,California,West,Software,Team Productivity Suite,12,450,5400,1080,4320,Completed
+ORD-1300,05-07-2025,2025,Q3,Elevate Retail Group,Enterprise,Texas,South,Software,Cloud Security Pro,6,120,720,150,570,Cancelled
+ORD-1301,15-07-2025,2025,Q3,Pulse Marketing,Mid-Market,New York,East,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1302,15-07-2025,2025,Q3,BlueWave Systems,Mid-Market,Colorado,West,Hardware,Thunderbolt 4 Quad Dock,2,280,560,320,240,Completed
+ORD-1303,15-07-2025,2025,Q3,Nova Dynamics,Mid-Market,California,West,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1304,17-07-2025,2025,Q3,Vanguard Legal,Enterprise,Texas,South,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1305,17-07-2025,2025,Q3,CloudScale Inc,SMB,New York,East,Office Gear,ErgoMax Standing Desk,5,650,3250,1800,1450,Completed
+ORD-1306,18-07-2025,2025,Q3,Nova Dynamics,Mid-Market,California,West,Office Gear,Premium Mesh Ergo Chair,7,420,2940,1610,1330,Completed
+ORD-1307,20-07-2025,2025,Q3,Studio Core Media,Mid-Market,California,West,Software,Team Productivity Suite,6,450,2700,540,2160,Completed
+ORD-1308,22-07-2025,2025,Q3,Omnia Consulting,SMB,Texas,South,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1309,25-07-2025,2025,Q3,Vertex Architecture,SMB,Massachusetts,East,Software,Team Productivity Suite,1,450,450,90,360,Completed
+ORD-1310,27-07-2025,2025,Q3,CloudScale Inc,SMB,New York,East,Office Gear,Heavy-Duty Dual Monitor Arm,1,145,145,75,70,Completed
+ORD-1311,27-07-2025,2025,Q3,Studio Core Media,Mid-Market,California,West,Office Gear,ErgoMax Standing Desk,2,650,1300,720,580,Completed
+ORD-1312,27-07-2025,2025,Q3,Studio Core Media,Mid-Market,New York,East,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1313,01-08-2025,2025,Q3,Pulse Marketing,Mid-Market,Texas,South,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1314,02-08-2025,2025,Q3,Horizon Global Tech,Enterprise,Texas,South,Office Gear,Premium Mesh Ergo Chair,2,420,840,460,380,Completed
+ORD-1315,02-08-2025,2025,Q3,Omnia Consulting,SMB,Washington,West,Hardware,"34"" Curved 4K Monitor",4,750,3000,1920,1080,Completed
+ORD-1316,04-08-2025,2025,Q3,Matrix Robotics,Mid-Market,Georgia,South,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1317,07-08-2025,2025,Q3,CloudScale Inc,SMB,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1318,08-08-2025,2025,Q3,Vanguard Legal,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1319,08-08-2025,2025,Q3,Nova Dynamics,Mid-Market,Texas,South,Office Gear,Premium Mesh Ergo Chair,2,420,840,460,380,Completed
+ORD-1320,10-08-2025,2025,Q3,Zenith Cloud Corp,Enterprise,Illinois,Central,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1321,16-08-2025,2025,Q3,Horizon Global Tech,Enterprise,Illinois,Central,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1322,16-08-2025,2025,Q3,Elevate Retail Group,Enterprise,Washington,West,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1323,18-08-2025,2025,Q3,Kinetic Energy Corp,Enterprise,Florida,South,Office Gear,Premium Mesh Ergo Chair,7,420,2940,1610,1330,Completed
+ORD-1324,19-08-2025,2025,Q3,Nexa Logistics,Mid-Market,California,West,Accessories,Wireless Noise-Cancelling Headset,5,180,900,400,500,Completed
+ORD-1325,21-08-2025,2025,Q3,Quantum Digital,SMB,North Carolina,East,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1326,24-08-2025,2025,Q3,Horizon Global Tech,Enterprise,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",6,1850,11100,7800,3300,Completed
+ORD-1327,25-08-2025,2025,Q3,Synergize Partners,SMB,Texas,South,Accessories,Precision Ergonomic Mouse,1,65,65,28,37,Completed
+ORD-1328,26-08-2025,2025,Q3,Nexa Logistics,Mid-Market,California,West,Hardware,"34"" Curved 4K Monitor",6,750,4500,2880,1620,Completed
+ORD-1329,28-08-2025,2025,Q3,Matrix Robotics,Mid-Market,California,West,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1330,29-08-2025,2025,Q3,Studio Core Media,Mid-Market,California,West,Accessories,Precision Ergonomic Mouse,5,65,325,140,185,Completed
+ORD-1331,30-08-2025,2025,Q3,Matrix Robotics,Mid-Market,Texas,South,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1332,31-08-2025,2025,Q3,Zenith Cloud Corp,Enterprise,New York,East,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1333,03-09-2025,2025,Q3,Vanguard Legal,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1334,03-09-2025,2025,Q3,Quantum Digital,SMB,New York,East,Software,Team Productivity Suite,5,450,2250,450,1800,Completed
+ORD-1335,08-09-2025,2025,Q3,Nova Dynamics,Mid-Market,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,4,145,580,300,280,Completed
+ORD-1336,08-09-2025,2025,Q3,Horizon Global Tech,Enterprise,Massachusetts,East,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1337,10-09-2025,2025,Q3,Omnia Consulting,SMB,North Carolina,East,Accessories,Precision Ergonomic Mouse,1,65,65,28,37,Completed
+ORD-1338,10-09-2025,2025,Q3,Pulse Marketing,Mid-Market,New York,East,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1339,11-09-2025,2025,Q3,BlueWave Systems,Mid-Market,Texas,South,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Completed
+ORD-1340,12-09-2025,2025,Q3,Kinetic Energy Corp,Enterprise,New York,East,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1341,12-09-2025,2025,Q3,Quantum Digital,SMB,Florida,South,Hardware,Thunderbolt 4 Quad Dock,2,280,560,320,240,Completed
+ORD-1342,15-09-2025,2025,Q3,Elevate Retail Group,Enterprise,New York,East,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1343,18-09-2025,2025,Q3,Zenith Cloud Corp,Enterprise,California,West,Software,Cloud Security Pro,9,120,1080,225,855,Completed
+ORD-1344,20-09-2025,2025,Q3,Quantum Digital,SMB,Illinois,Central,Office Gear,Heavy-Duty Dual Monitor Arm,4,145,580,300,280,Completed
+ORD-1345,20-09-2025,2025,Q3,CloudScale Inc,SMB,New York,East,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1346,26-09-2025,2025,Q3,Zenith Cloud Corp,Enterprise,Florida,South,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1347,30-09-2025,2025,Q3,Horizon Global Tech,Enterprise,New York,East,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1348,05-10-2025,2025,Q4,Pulse Marketing,Mid-Market,Massachusetts,East,Office Gear,Heavy-Duty Dual Monitor Arm,5,145,725,375,350,Completed
+ORD-1349,09-10-2025,2025,Q4,BlueWave Systems,Mid-Market,Washington,West,Hardware,"34"" Curved 4K Monitor",3,750,2250,1440,810,Completed
+ORD-1350,10-10-2025,2025,Q4,Horizon Global Tech,Enterprise,California,West,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1351,13-10-2025,2025,Q4,Vanguard Legal,Enterprise,New York,East,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1352,13-10-2025,2025,Q4,Horizon Global Tech,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,6,2400,14400,3600,10800,Completed
+ORD-1353,16-10-2025,2025,Q4,Vanguard Legal,Enterprise,California,West,Hardware,"34"" Curved 4K Monitor",7,750,5250,3360,1890,Completed
+ORD-1354,17-10-2025,2025,Q4,Zenith Cloud Corp,Enterprise,Florida,South,Office Gear,Premium Mesh Ergo Chair,2,420,840,460,380,Completed
+ORD-1355,18-10-2025,2025,Q4,Studio Core Media,Mid-Market,Texas,South,Software,Cloud Security Pro,8,120,960,200,760,Completed
+ORD-1356,22-10-2025,2025,Q4,Apex Innovations Ltd,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1357,23-10-2025,2025,Q4,Pulse Marketing,Mid-Market,Massachusetts,East,Office Gear,Heavy-Duty Dual Monitor Arm,7,145,1015,525,490,Completed
+ORD-1358,23-10-2025,2025,Q4,Kinetic Energy Corp,Enterprise,Massachusetts,East,Hardware,Thunderbolt 4 Quad Dock,6,280,1680,960,720,Completed
+ORD-1359,26-10-2025,2025,Q4,Apex Innovations Ltd,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1360,30-10-2025,2025,Q4,Horizon Global Tech,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1361,30-10-2025,2025,Q4,Pulse Marketing,Mid-Market,Texas,South,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1362,06-11-2025,2025,Q4,Elevate Retail Group,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,6,2400,14400,3600,10800,Completed
+ORD-1363,11-11-2025,2025,Q4,Kinetic Energy Corp,Enterprise,North Carolina,East,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1364,14-11-2025,2025,Q4,Horizon Global Tech,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1365,17-11-2025,2025,Q4,Zenith Cloud Corp,Enterprise,Florida,South,Software,Cloud Security Pro,10,120,1200,250,950,Cancelled
+ORD-1366,19-11-2025,2025,Q4,Nexa Logistics,Mid-Market,New York,East,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1367,23-11-2025,2025,Q4,Synergize Partners,SMB,California,West,Accessories,Precision Ergonomic Mouse,5,65,325,140,185,Completed
+ORD-1368,24-11-2025,2025,Q4,Vanguard Legal,Enterprise,Washington,West,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1369,26-11-2025,2025,Q4,Nova Dynamics,Mid-Market,California,West,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1370,30-11-2025,2025,Q4,Vanguard Legal,Enterprise,California,West,Office Gear,ErgoMax Standing Desk,3,650,1950,1080,870,Completed
+ORD-1371,03-12-2025,2025,Q4,Zenith Cloud Corp,Enterprise,Georgia,South,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Completed
+ORD-1372,04-12-2025,2025,Q4,Horizon Global Tech,Enterprise,Illinois,Central,Office Gear,Premium Mesh Ergo Chair,3,420,1260,690,570,Completed
+ORD-1373,07-12-2025,2025,Q4,Horizon Global Tech,Enterprise,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1374,07-12-2025,2025,Q4,Matrix Robotics,Mid-Market,Washington,West,Office Gear,Premium Mesh Ergo Chair,5,420,2100,1150,950,Completed
+ORD-1375,10-12-2025,2025,Q4,Studio Core Media,Mid-Market,Florida,South,Accessories,Wireless Noise-Cancelling Headset,7,180,1260,560,700,Completed
+ORD-1376,10-12-2025,2025,Q4,Nexa Logistics,Mid-Market,New York,East,Software,Cloud Security Pro,8,120,960,200,760,Completed
+ORD-1377,10-12-2025,2025,Q4,Omnia Consulting,SMB,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1378,11-12-2025,2025,Q4,Elevate Retail Group,Enterprise,Massachusetts,East,Software,Cloud Security Pro,10,120,1200,250,950,Completed
+ORD-1379,12-12-2025,2025,Q4,Vertex Architecture,SMB,Washington,West,Office Gear,Premium Mesh Ergo Chair,5,420,2100,1150,950,Completed
+ORD-1380,14-12-2025,2025,Q4,Alpha BioLabs,SMB,New York,East,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1381,16-12-2025,2025,Q4,Kinetic Energy Corp,Enterprise,California,West,Software,Team Productivity Suite,9,450,4050,810,3240,Completed
+ORD-1382,17-12-2025,2025,Q4,Apex Innovations Ltd,Enterprise,California,West,Software,Cloud Security Pro,10,120,1200,250,950,Completed
+ORD-1383,18-12-2025,2025,Q4,Matrix Robotics,Mid-Market,Massachusetts,East,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1384,18-12-2025,2025,Q4,Elevate Retail Group,Enterprise,Illinois,Central,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1385,19-12-2025,2025,Q4,Horizon Global Tech,Enterprise,California,West,Hardware,Thunderbolt 4 Quad Dock,11,280,3080,1760,1320,Completed
+ORD-1386,24-12-2025,2025,Q4,Elevate Retail Group,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",9,750,6750,4320,2430,Completed
+ORD-1387,25-12-2025,2025,Q4,Vanguard Legal,Enterprise,New York,East,Software,Cloud Security Pro,6,120,720,150,570,Completed
+ORD-1388,25-12-2025,2025,Q4,Elevate Retail Group,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",8,750,6000,3840,2160,Completed
+ORD-1389,25-12-2025,2025,Q4,Nexa Logistics,Mid-Market,New York,East,Accessories,Wireless Noise-Cancelling Headset,5,180,900,400,500,Completed
+ORD-1390,26-12-2025,2025,Q4,Alpha BioLabs,SMB,Massachusetts,East,Accessories,Wireless Noise-Cancelling Headset,4,180,720,320,400,Completed
+ORD-1391,29-12-2025,2025,Q4,Quantum Digital,SMB,Massachusetts,East,Hardware,Thunderbolt 4 Quad Dock,4,280,1120,640,480,Completed
+ORD-1392,29-12-2025,2025,Q4,Apex Innovations Ltd,Enterprise,Texas,South,Hardware,"34"" Curved 4K Monitor",7,750,5250,3360,1890,Completed
+ORD-1393,31-12-2025,2025,Q4,Matrix Robotics,Mid-Market,Illinois,Central,Hardware,Thunderbolt 4 Quad Dock,2,280,560,320,240,Completed
+ORD-1394,31-12-2025,2025,Q4,Nova Dynamics,Mid-Market,North Carolina,East,Hardware,Thunderbolt 4 Quad Dock,7,280,1960,1120,840,Completed
+ORD-1395,01-01-2026,2026,Q1,Kinetic Energy Corp,Enterprise,Washington,West,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1396,02-01-2026,2026,Q1,Elevate Retail Group,Enterprise,Illinois,Central,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1397,04-01-2026,2026,Q1,Horizon Global Tech,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1398,07-01-2026,2026,Q1,Zenith Cloud Corp,Enterprise,Illinois,Central,Software,Team Productivity Suite,12,450,5400,1080,4320,Completed
+ORD-1399,09-01-2026,2026,Q1,BlueWave Systems,Mid-Market,California,West,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1400,10-01-2026,2026,Q1,Zenith Cloud Corp,Enterprise,Texas,South,Hardware,Thunderbolt 4 Quad Dock,9,280,2520,1440,1080,Completed
+ORD-1401,16-01-2026,2026,Q1,Kinetic Energy Corp,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,6,2400,14400,3600,10800,Completed
+ORD-1402,23-01-2026,2026,Q1,CloudScale Inc,SMB,California,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1403,23-01-2026,2026,Q1,Matrix Robotics,Mid-Market,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1404,23-01-2026,2026,Q1,Nova Dynamics,Mid-Market,Washington,West,Hardware,"34"" Curved 4K Monitor",4,750,3000,1920,1080,Completed
+ORD-1405,26-01-2026,2026,Q1,Pulse Marketing,Mid-Market,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1406,29-01-2026,2026,Q1,Quantum Digital,SMB,Florida,South,Office Gear,Premium Mesh Ergo Chair,1,420,420,230,190,Completed
+ORD-1407,31-01-2026,2026,Q1,Horizon Global Tech,Enterprise,California,West,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1408,04-02-2026,2026,Q1,Studio Core Media,Mid-Market,New York,East,Office Gear,Premium Mesh Ergo Chair,6,420,2520,1380,1140,Completed
+ORD-1409,06-02-2026,2026,Q1,Zenith Cloud Corp,Enterprise,Florida,South,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1410,06-02-2026,2026,Q1,Pulse Marketing,Mid-Market,Washington,West,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1411,07-02-2026,2026,Q1,Omnia Consulting,SMB,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,1,145,145,75,70,Completed
+ORD-1412,09-02-2026,2026,Q1,Nexa Logistics,Mid-Market,California,West,Software,Team Productivity Suite,3,450,1350,270,1080,Completed
+ORD-1413,09-02-2026,2026,Q1,Matrix Robotics,Mid-Market,California,West,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1414,13-02-2026,2026,Q1,Apex Innovations Ltd,Enterprise,Colorado,West,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1415,14-02-2026,2026,Q1,Vanguard Legal,Enterprise,Illinois,Central,Office Gear,ErgoMax Standing Desk,12,650,7800,4320,3480,Completed
+ORD-1416,17-02-2026,2026,Q1,Quantum Digital,SMB,California,West,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1417,19-02-2026,2026,Q1,Kinetic Energy Corp,Enterprise,Texas,South,Office Gear,Premium Mesh Ergo Chair,3,420,1260,690,570,Completed
+ORD-1418,21-02-2026,2026,Q1,Vanguard Legal,Enterprise,Florida,South,Software,Team Productivity Suite,3,450,1350,270,1080,Completed
+ORD-1419,21-02-2026,2026,Q1,CloudScale Inc,SMB,Washington,West,Software,Cloud Security Pro,1,120,120,25,95,Completed
+ORD-1420,21-02-2026,2026,Q1,Zenith Cloud Corp,Enterprise,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",1,1850,1850,1300,550,Completed
+ORD-1421,23-02-2026,2026,Q1,Matrix Robotics,Mid-Market,New York,East,Accessories,Wireless Noise-Cancelling Headset,3,180,540,240,300,Completed
+ORD-1422,25-02-2026,2026,Q1,Nova Dynamics,Mid-Market,Texas,South,Software,Team Productivity Suite,7,450,3150,630,2520,Completed
+ORD-1423,25-02-2026,2026,Q1,Kinetic Energy Corp,Enterprise,California,West,Office Gear,ErgoMax Standing Desk,7,650,4550,2520,2030,Completed
+ORD-1424,26-02-2026,2026,Q1,Studio Core Media,Mid-Market,California,West,Hardware,"34"" Curved 4K Monitor",7,750,5250,3360,1890,Completed
+ORD-1425,27-02-2026,2026,Q1,Elevate Retail Group,Enterprise,Illinois,Central,Office Gear,ErgoMax Standing Desk,11,650,7150,3960,3190,Completed
+ORD-1426,28-02-2026,2026,Q1,Horizon Global Tech,Enterprise,Washington,West,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1427,04-03-2026,2026,Q1,Nexa Logistics,Mid-Market,New York,East,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1428,04-03-2026,2026,Q1,Nova Dynamics,Mid-Market,Washington,West,Hardware,"ProBook Ultra 16"" Laptop",3,1850,5550,3900,1650,Completed
+ORD-1429,05-03-2026,2026,Q1,Apex Innovations Ltd,Enterprise,Florida,South,Office Gear,Heavy-Duty Dual Monitor Arm,8,145,1160,600,560,Completed
+ORD-1430,08-03-2026,2026,Q1,Kinetic Energy Corp,Enterprise,Florida,South,Hardware,"34"" Curved 4K Monitor",3,750,2250,1440,810,Completed
+ORD-1431,11-03-2026,2026,Q1,Pulse Marketing,Mid-Market,Georgia,South,Hardware,"34"" Curved 4K Monitor",3,750,2250,1440,810,Completed
+ORD-1432,14-03-2026,2026,Q1,Kinetic Energy Corp,Enterprise,Texas,South,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1433,15-03-2026,2026,Q1,Synergize Partners,SMB,Washington,West,Office Gear,Heavy-Duty Dual Monitor Arm,1,145,145,75,70,Completed
+ORD-1434,16-03-2026,2026,Q1,Quantum Digital,SMB,New York,East,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1435,16-03-2026,2026,Q1,Apex Innovations Ltd,Enterprise,Colorado,West,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1436,20-03-2026,2026,Q1,Vertex Architecture,SMB,Florida,South,Accessories,Wireless Noise-Cancelling Headset,3,180,540,240,300,Completed
+ORD-1437,21-03-2026,2026,Q1,Alpha BioLabs,SMB,Texas,South,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1438,23-03-2026,2026,Q1,Horizon Global Tech,Enterprise,New York,East,Hardware,"ProBook Ultra 16"" Laptop",6,1850,11100,7800,3300,Completed
+ORD-1439,28-03-2026,2026,Q1,Zenith Cloud Corp,Enterprise,New York,East,Hardware,"34"" Curved 4K Monitor",3,750,2250,1440,810,Completed
+ORD-1440,28-03-2026,2026,Q1,Matrix Robotics,Mid-Market,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",4,1850,7400,5200,2200,Completed
+ORD-1441,28-03-2026,2026,Q1,Kinetic Energy Corp,Enterprise,Colorado,West,Software,Enterprise Analytics Cloud,6,2400,14400,3600,10800,Completed
+ORD-1442,28-03-2026,2026,Q1,Omnia Consulting,SMB,Illinois,Central,Software,Cloud Security Pro,4,120,480,100,380,Completed
+ORD-1443,30-03-2026,2026,Q1,CloudScale Inc,SMB,Florida,South,Office Gear,Heavy-Duty Dual Monitor Arm,5,145,725,375,350,Completed
+ORD-1444,31-03-2026,2026,Q1,Matrix Robotics,Mid-Market,Washington,West,Hardware,"34"" Curved 4K Monitor",2,750,1500,960,540,Completed
+ORD-1445,31-03-2026,2026,Q1,Vanguard Legal,Enterprise,North Carolina,East,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1446,06-04-2026,2026,Q2,Synergize Partners,SMB,Illinois,Central,Software,Team Productivity Suite,5,450,2250,450,1800,Completed
+ORD-1447,08-04-2026,2026,Q2,Elevate Retail Group,Enterprise,New York,East,Hardware,Thunderbolt 4 Quad Dock,6,280,1680,960,720,Completed
+ORD-1448,12-04-2026,2026,Q2,Horizon Global Tech,Enterprise,North Carolina,East,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1449,18-04-2026,2026,Q2,Apex Innovations Ltd,Enterprise,Georgia,South,Hardware,"ProBook Ultra 16"" Laptop",2,1850,3700,2600,1100,Completed
+ORD-1450,18-04-2026,2026,Q2,Matrix Robotics,Mid-Market,Florida,South,Accessories,Mechanical Custom Keyboard,4,135,540,240,300,Completed
+ORD-1451,19-04-2026,2026,Q2,CloudScale Inc,SMB,Texas,South,Office Gear,ErgoMax Standing Desk,5,650,3250,1800,1450,Completed
+ORD-1452,24-04-2026,2026,Q2,Horizon Global Tech,Enterprise,North Carolina,East,Hardware,"34"" Curved 4K Monitor",10,750,7500,4800,2700,Completed
+ORD-1453,24-04-2026,2026,Q2,Horizon Global Tech,Enterprise,Texas,South,Software,Team Productivity Suite,9,450,4050,810,3240,Completed
+ORD-1454,02-05-2026,2026,Q2,Horizon Global Tech,Enterprise,California,West,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1455,04-05-2026,2026,Q2,Elevate Retail Group,Enterprise,New York,East,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1456,05-05-2026,2026,Q2,Elevate Retail Group,Enterprise,California,West,Software,Enterprise Analytics Cloud,2,2400,4800,1200,3600,Completed
+ORD-1457,08-05-2026,2026,Q2,Apex Innovations Ltd,Enterprise,Illinois,Central,Office Gear,Heavy-Duty Dual Monitor Arm,7,145,1015,525,490,Completed
+ORD-1458,11-05-2026,2026,Q2,Matrix Robotics,Mid-Market,Texas,South,Software,Team Productivity Suite,2,450,900,180,720,Completed
+ORD-1459,13-05-2026,2026,Q2,Horizon Global Tech,Enterprise,Washington,West,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1460,15-05-2026,2026,Q2,Alpha BioLabs,SMB,New York,East,Hardware,"34"" Curved 4K Monitor",4,750,3000,1920,1080,Completed
+ORD-1461,16-05-2026,2026,Q2,Elevate Retail Group,Enterprise,Georgia,South,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1462,20-05-2026,2026,Q2,Apex Innovations Ltd,Enterprise,New York,East,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1463,24-05-2026,2026,Q2,Studio Core Media,Mid-Market,California,West,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1464,29-05-2026,2026,Q2,Vertex Architecture,SMB,Illinois,Central,Software,Cloud Security Pro,3,120,360,75,285,Completed
+ORD-1465,03-06-2026,2026,Q2,Apex Innovations Ltd,Enterprise,California,West,Office Gear,Premium Mesh Ergo Chair,11,420,4620,2530,2090,Completed
+ORD-1466,05-06-2026,2026,Q2,Quantum Digital,SMB,Texas,South,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Completed
+ORD-1467,13-06-2026,2026,Q2,Nexa Logistics,Mid-Market,Florida,South,Hardware,"34"" Curved 4K Monitor",6,750,4500,2880,1620,Completed
+ORD-1468,19-06-2026,2026,Q2,Nexa Logistics,Mid-Market,Texas,South,Software,Enterprise Analytics Cloud,3,2400,7200,1800,5400,Completed
+ORD-1469,20-06-2026,2026,Q2,Vanguard Legal,Enterprise,Texas,South,Hardware,"34"" Curved 4K Monitor",10,750,7500,4800,2700,Completed
+ORD-1470,22-06-2026,2026,Q2,Horizon Global Tech,Enterprise,Massachusetts,East,Office Gear,Heavy-Duty Dual Monitor Arm,8,145,1160,600,560,Completed
+ORD-1471,22-06-2026,2026,Q2,Studio Core Media,Mid-Market,New York,East,Hardware,"34"" Curved 4K Monitor",5,750,3750,2400,1350,Completed
+ORD-1472,24-06-2026,2026,Q2,Pulse Marketing,Mid-Market,Texas,South,Software,Team Productivity Suite,5,450,2250,450,1800,Completed
+ORD-1473,24-06-2026,2026,Q2,Vertex Architecture,SMB,Texas,South,Accessories,Mechanical Custom Keyboard,2,135,270,120,150,Completed
+ORD-1474,25-06-2026,2026,Q2,Horizon Global Tech,Enterprise,Massachusetts,East,Office Gear,Premium Mesh Ergo Chair,8,420,3360,1840,1520,Completed
+ORD-1475,28-06-2026,2026,Q2,Apex Innovations Ltd,Enterprise,Washington,West,Software,Enterprise Analytics Cloud,4,2400,9600,2400,7200,Completed
+ORD-1476,28-06-2026,2026,Q2,Vertex Architecture,SMB,Massachusetts,East,Accessories,Wireless Noise-Cancelling Headset,5,180,900,400,500,Completed
+ORD-1477,04-07-2026,2026,Q3,Vanguard Legal,Enterprise,California,West,Software,Team Productivity Suite,9,450,4050,810,3240,Completed
+ORD-1478,05-07-2026,2026,Q3,Elevate Retail Group,Enterprise,Texas,South,Hardware,"ProBook Ultra 16"" Laptop",5,1850,9250,6500,2750,Completed
+ORD-1479,06-07-2026,2026,Q3,Matrix Robotics,Mid-Market,Georgia,South,Hardware,Thunderbolt 4 Quad Dock,8,280,2240,1280,960,Completed
+ORD-1480,13-07-2026,2026,Q3,Studio Core Media,Mid-Market,Texas,South,Hardware,"34"" Curved 4K Monitor",7,750,5250,3360,1890,Completed
+ORD-1481,17-07-2026,2026,Q3,BlueWave Systems,Mid-Market,California,West,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1482,20-07-2026,2026,Q3,Alpha BioLabs,SMB,Florida,South,Software,Cloud Security Pro,5,120,600,125,475,Completed
+ORD-1483,21-07-2026,2026,Q3,Kinetic Energy Corp,Enterprise,California,West,Software,Cloud Security Pro,7,120,840,175,665,Completed
+ORD-1484,22-07-2026,2026,Q3,Nexa Logistics,Mid-Market,Florida,South,Software,Cloud Security Pro,2,120,240,50,190,Completed
+ORD-1485,23-07-2026,2026,Q3,Horizon Global Tech,Enterprise,California,West,Software,Enterprise Analytics Cloud,5,2400,12000,3000,9000,Completed
+ORD-1486,23-07-2026,2026,Q3,Kinetic Energy Corp,Enterprise,Florida,South,Hardware,"34"" Curved 4K Monitor",6,750,4500,2880,1620,Completed
+ORD-1487,24-07-2026,2026,Q3,Vanguard Legal,Enterprise,New York,East,Software,Team Productivity Suite,4,450,1800,360,1440,Completed
+ORD-1488,25-07-2026,2026,Q3,Vertex Architecture,SMB,California,West,Accessories,Wireless Noise-Cancelling Headset,3,180,540,240,300,Processing
+ORD-1489,25-07-2026,2026,Q3,Pulse Marketing,Mid-Market,North Carolina,East,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Processing
+ORD-1490,27-07-2026,2026,Q3,Pulse Marketing,Mid-Market,California,West,Office Gear,Heavy-Duty Dual Monitor Arm,8,145,1160,600,560,Processing
+ORD-1491,27-07-2026,2026,Q3,Studio Core Media,Mid-Market,Texas,South,Accessories,Wireless Noise-Cancelling Headset,5,180,900,400,500,Processing
+ORD-1492,29-07-2026,2026,Q3,Alpha BioLabs,SMB,Washington,West,Hardware,Thunderbolt 4 Quad Dock,5,280,1400,800,600,Pending
+ORD-1493,02-08-2026,2026,Q3,Horizon Global Tech,Enterprise,Florida,South,Hardware,Thunderbolt 4 Quad Dock,3,280,840,480,360,Pending
+ORD-1494,02-08-2026,2026,Q3,Quantum Digital,SMB,California,West,Office Gear,ErgoMax Standing Desk,4,650,2600,1440,1160,Pending
+ORD-1495,07-08-2026,2026,Q3,Pulse Marketing,Mid-Market,New York,East,Office Gear,Premium Mesh Ergo Chair,4,420,1680,920,760,Pending
+ORD-1496,08-08-2026,2026,Q3,Pulse Marketing,Mid-Market,Washington,West,Hardware,"34"" Curved 4K Monitor",6,750,4500,2880,1620,Pending
+ORD-1497,10-08-2026,2026,Q3,Quantum Digital,SMB,Florida,South,Software,Cloud Security Pro,2,120,240,50,190,Pending
+ORD-1498,14-08-2026,2026,Q3,Horizon Global Tech,Enterprise,Texas,South,Hardware,Thunderbolt 4 Quad Dock,4,280,1120,640,480,Pending
+ORD-1499,15-08-2026,2026,Q3,Horizon Global Tech,Enterprise,California,West,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Pending
+ORD-1500,17-08-2026,2026,Q3,Vanguard Legal,Enterprise,Massachusetts,East,Software,Enterprise Analytics Cloud,1,2400,2400,600,1800,Pending
